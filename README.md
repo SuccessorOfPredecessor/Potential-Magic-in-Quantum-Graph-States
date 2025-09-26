@@ -1,6 +1,7 @@
 # Analysis of Potential Magic in Quantum Graph States
 
 This project provides tools to calculate the potential magic resource for a given quantum graph state using two different methods.
+Details of the definition of the potential magic resources see https://arxiv.org/abs/2408.01980. 
 
 ## Description of Methods
 
@@ -24,4 +25,5 @@ This method uses a heuristic algorithm to estimate the potential magic resource.
     -   `scipy`
     -   `qiskit`
     -   `networkx`
+
     -   `itertools`, `functools`, `math`, `time` (standard libraries)
